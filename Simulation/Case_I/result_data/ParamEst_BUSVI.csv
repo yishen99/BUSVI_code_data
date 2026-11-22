@@ -1,0 +1,5 @@
+Parameter,Bias,MSE
+alpha_g,-0.739,0.547
+xi_gk,0.528,0.302
+gamma_bg,0.407,0.204
+sigma2_bg,0.091,0.057
